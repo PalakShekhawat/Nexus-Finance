@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: nexus-finance-server
+    env: node
+    region: oregon
+    plan: free
+    rootDir: nexus-finance-server
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: MONGO_URI
+        sync: false        # You must paste this manually in Render dashboard
+      - key: JWT_ACCESS_SECRET
+        generateValue: true
+      - key: JWT_REFRESH_SECRET
+        generateValue: true
+      - key: CLIENT_URL
+        sync: false        # Paste your Vercel URL here after deploying frontend
