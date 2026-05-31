@@ -1,3 +1,7 @@
+Demo Login
+Email:admin@nexus.com
+Password:admin123
+
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-6366f1?style=for-the-badge" alt="MERN Stack"/>
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React 19"/>
