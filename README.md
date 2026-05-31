@@ -1,7 +1,3 @@
-# Demo Login
-Email:admin@nexus.com
-Password:admin123
----
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-6366f1?style=for-the-badge" alt="MERN Stack"/>
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React 19"/>
@@ -216,7 +212,12 @@ Navigate to `http://localhost:5173` in your browser.
 This project was built for educational purposes as part of a Fullstack Web Development course.
 
 ---
+## Demo Credentials 
 
+Live Demo: https://nexus-finance-bi4a5cje0-palaks-projects-70a1c1da.vercel.app
+Demo Login: admin@nexus.com / admin123
+
+---
 <p align="center">
   Built using the MERN Stack
 </p>
